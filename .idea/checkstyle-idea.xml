@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA" serialisationVersion="2">
+    <checkstyleVersion>9.0.1</checkstyleVersion>
+    <scanScope>JavaOnly</scanScope>
+    <copyLibs>true</copyLibs>
+    <option name="activeLocationIds">
+      <option value="51a23b4d-0e3e-4e0f-b1a2-f917ad00d255" />
+    </option>
+    <option name="locations">
+      <list>
+        <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="51a23b4d-0e3e-4e0f-b1a2-f917ad00d255" type="HTTP_URL" scope="All" description=" UBtech Checks">https://bitbucket.org/beeyou/checkstyle-rules/raw/main/src/main/resources/com/ubtech/monty/checkstyle.xml</ConfigurationLocation>
+      </list>
+    </option>
+  </component>
+</project>
